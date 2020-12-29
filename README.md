@@ -1,6 +1,7 @@
 # UT_DS_Course2
 ---
 *Updated 12/29/20*
+
 ---
 # Course 2 premise:
 ---
@@ -20,8 +21,9 @@ CreditOne needs an accurate way to make this decision because if the customer de
 3. the Jupyter Notebook file
 4. the environment file. 
 
+---
 # Summary of each file
-
+---
 ## 2. Course 2 Process Presentation File Summary:
     In this presentation, we will introduce the BADIR data science process framework and describe how each step will enable us to move forward toward this goal.
     
