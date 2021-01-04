@@ -1,6 +1,6 @@
 # UT_DS_Course2
 ---
-*Updated 12/29/20*
+*Updated 1/04/21*
 
 ---
 ### Course 2 premise:
@@ -32,3 +32,9 @@ CreditOne needs an accurate way to make this decision because if the customer de
 
 ##### 4. environment.md: The Environment Setup and Config Guide
     This file is just a guide to get the ds environment set up for this course in case I need to reinstall Windows again.
+
+---
+### Status of the Project
+---
+Currently finished with Data Cleaning. Documented the process.
+Started EDA, ready to make some graphs!
